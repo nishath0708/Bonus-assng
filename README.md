@@ -5,7 +5,7 @@ Term: SUMMER 2025
 Student Name: KURUGUNTLA NISHANTH SAI
 Student ID: 700766566
 Easyly access the Link : https://github.com/nishath0708/Bonus-assng/tree/main
-
+https://drive.google.com/drive/folders/15BiMGblkxni-YvNik3KzTp72o3guqXpc?usp=drive_link
 # 💡 Assignment: Question Answering with Transformers & Conditional GAN (cGAN)
 
 This README covers two mini-projects:
